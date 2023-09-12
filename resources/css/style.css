@@ -77,9 +77,6 @@ nav .button {
   color: white;
 }
 
-nav li:last-child {
-  display: none;
-}
 
 header .icon {
   width: 1rem;
